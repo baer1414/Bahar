@@ -1,0 +1,17 @@
+Abstraction
+Abstract class ve Interface yapıları ile abstractin sağlıyoruz
+1-Abstrack class intantiate yapamıyoruz
+2-Abstrack methodlar oluşturabiliriz
+3-Abstract methodlarda impelement yapayız. method badilari yok
+4-ilk concrate class da imlement yapılır
+5-Abstrack class da non-abstrack method olabilir
+6-Abstrack class da cunstructor olur
+7-Abstrack class larda blok olabilir
+8-abstrack class da static method olabilir
+9-Abstrack class non abstrack class exdends olabilir
+10-Abstrack class başka bir abstrack class exdens olabilir
+11-Abstrack methodlar priveate ve final olamaz
+12-Abstrac method final private static olamaz
+13-Abstrack method protected olabilir
+14-Abstrack class multiple inheritance olamaz
+15-Abstrack class exdens olan başka abstrack class impementasyon(overleyding) yapmayabilir
