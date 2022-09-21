@@ -1,6 +1,8 @@
 package Day_12_nestedAndWhileLoops;
 
-public class Day_12_Example {
+import Day_42.Daire;
+
+public class Day_12_Example extends Daire {
     public static void main(String[] args){
 
        /* for(int i=0; i<5;i++){

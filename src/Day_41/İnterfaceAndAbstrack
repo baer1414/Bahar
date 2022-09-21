@@ -1,0 +1,37 @@
+-Abstraction class belli bir örnek yerine bir nesnenin temel niteliklerine
+
+ odaklanmak için önemsiz olanları görmezden gelme.
+
+-Soyutlama Abstrack class ve interfaceler sayesinde yapılıyor.
+
+-Soyut bir sınıf somutlaştırılamaz.
+
+-Soyut sınıflardaki amaç alt sınıflara yeniden kullanıla bilir değişkenler ve
+methodlar sağlamaktır.Asıl amaç alt sınıfları bu methodları yazmaya zorlamak
+
+-Abstrack sınıfların bir alt sınıfa concreate
+
+-1.concreat class da implement zorunlu  implementasyon burda yapılır//odak
+
+-Abstraction class birbirlerine exdent olabilir
+
+-abstrack methodları uygulayıp uygulamamk isteye bağlıfakat uygulamaz ise en alt class
+ üzerindeki bütün herintların abstrack methodları uygulamak zorunda
+
+ -Abstrack class obje oluşturmaz
+ -Abstrack class methodlar normal veya abstrack olabilir
+ -Abstrack method pirivate veya final olamaz
+ -Abstrack class constructor olabilir
+ -interface construck olmaz
+ -Abstrack class instance static ve final değişkenler tanımlanabilir
+ -abstrack class exdent interfaceler ise implements kullanır
+ -interface özellik eklemek için kullanılır
+ -interface public acsess modofier kullanabilir
+ -interface sınıfları başka bir sınıfı genişletmez
+ -interface public static final değişkenlere sahip olabilirler
+ -interface java 8 sonra default ve static method eklenmiştir
+ -interface java 9 sonra private method eklenmiştir
+
+
+
+ -interface multiple inheritance yapılabilir coklu kalıtımı destekler
